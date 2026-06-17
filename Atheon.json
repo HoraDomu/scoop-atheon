@@ -1,0 +1,15 @@
+{
+    "version": "0.5.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/HoraDomu/Atheon/releases/download/v0.5.0/atheon-windows-amd64.zip",
+            "bin": [
+                "atheon.exe"
+            ],
+            "hash": "317e8dc390d261a6ec0b1ba8816fa8b8109eae52576b7599759172d943c1326c"
+        }
+    },
+    "homepage": "https://github.com/HoraDomu/Atheon",
+    "license": "MIT",
+    "description": "One tool. All patterns. Any input."
+}
