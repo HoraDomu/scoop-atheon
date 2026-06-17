@@ -1,12 +1,13 @@
 {
-    "version": "0.5.0",
+    "version": "0.6.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/HoraDomu/Atheon/releases/download/v0.5.0/atheon-windows-amd64.zip",
+            "url": "https://github.com/HoraDomu/Atheon/releases/download/v0.6.0/atheon-windows-amd64.zip",
             "bin": [
-                "atheon.exe"
+                "atheon.exe",
+                "atheon-mcp.exe"
             ],
-            "hash": "317e8dc390d261a6ec0b1ba8816fa8b8109eae52576b7599759172d943c1326c"
+            "hash": "1c4a134081778f6c855f48b9126bc79c21a985cda7d348b62c5f4e0769788fe6"
         }
     },
     "homepage": "https://github.com/HoraDomu/Atheon",
