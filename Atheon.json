@@ -1,16 +1,16 @@
 {
-    "version": "0.6.0",
+    "version": "0.8.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/HoraDomu/Atheon/releases/download/v0.6.0/atheon-windows-amd64.zip",
+            "url": "https://github.com/HoraDomu/Atheon/releases/download/v0.8.0/atheon-windows-amd64.zip",
             "bin": [
                 "atheon.exe",
                 "atheon-mcp.exe"
             ],
-            "hash": "1c4a134081778f6c855f48b9126bc79c21a985cda7d348b62c5f4e0769788fe6"
+            "hash": "3199f928de3ca871a280b2961ebcdf0ae929ebbd36043994d8bd010cf6c788d3"
         }
     },
     "homepage": "https://github.com/HoraDomu/Atheon",
     "license": "MIT",
-    "description": "One tool. All patterns. Any input."
+    "description": "Pattern matching engine for secrets/PII detection with MCP server support"
 }
